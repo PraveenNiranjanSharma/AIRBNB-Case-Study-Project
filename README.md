@@ -29,6 +29,8 @@ To prepare for the next best steps that Airbnb needs to take as a business, you 
 
 Data Analysis Managers: These people manage the data analysts directly for processes and their technical expertise is basic.
 Lead Data Analyst: The lead data analyst looks after the entire team of data and business analysts and is technically sound.
+
+
 **Presentation - II**
 
 
